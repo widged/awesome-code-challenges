@@ -32,5 +32,5 @@
 
 ## Sites with mentorship
 
-[exercismio](./exercismio.md)
-[geektastic](./geektastic.md)
+- [exercismio](./exercismio.md)
+- [geektastic](./geektastic.md)
