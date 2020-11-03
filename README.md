@@ -56,3 +56,7 @@ These may require a time investment in terms of days or weeks
 | exercism.io | Ballerina, Bash, C, C#, C++, Clojure, CoffeeScript, Common Lisp, Crystal, Delphi Pascal, Elixir, Elm, Emacs Lisp, Erlang, F#, Go, Haskell, Java, JavaScript, Kotlin, Lua, Objective-C, Ocaml, OK, Perl 5, Perl 6, Nim, PHP, PL/SQL, PureScript, Python, R, Racket, Ruby, Rust, Scala, Scheme, Swift, TypeScript | Exercises |
 | Codewars | Free | BF / C / C++ / C# / Clojure / CoffeeScript / Crystal / Dart / Elixir / Erlang / F# / Go / Haskel / Java / JavaScript / Lua / Nim / Objective-C / OCaml / PHP / Python / R / Ruby / Rust / Shell / SQL / Swift / TypeScrypt |
 | Edabit | FREE | C++, C#, JavaScript, PHP, Python, Java, Ruby, Swift | See Full List |
+
+## Languages
+
+[Julia](./language/julia.md)
