@@ -1,8 +1,8 @@
-(text from [best-coding-challenge-websites](https://www.webcreate.me/best-coding-challenge-websites/))
-
 ## [CodeEval](https://www.codeeval.com/)
 
 ![](https://www.webcreate.me/wp-content/uploads/2018/02/CodeEval-Coding-Challenges-for-the-World-s-Best-Developers.jpg)
+
+(text from [best-coding-challenge-websites](https://www.webcreate.me/best-coding-challenge-websites/))
 
 **CodeEval is very similar to HackerRank in almost everything.** It provides a variety of company-sponsored coding challenges which aim to help you get a job if you master them in the best possible fashion.
 

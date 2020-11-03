@@ -1,5 +1,7 @@
 # Awesome Code Challenges
 
+[Analysts expect](https://www.techrepublic.com/article/tech-jobs-will-see-steady-growth-through-2023/) technology hiring to continue growing steadily into the 2020s. However, a problem we face in our field is the proliferation of new languages, frameworks, and technologies. Challenges and puzzles let us routinely become a better problem solver, learn the intricacies of a programming language, prepare for job interviews, learn new algorithms, and more.
+
 ## Genres
 
 ### (Algorithmic) Coding Challenges
@@ -24,13 +26,33 @@
 
 [exercises-sites](./exercises-sites.md)
 
+### Quests and Bigger Challenges
+
+These may require a time investment in terms of days or weeks
+
+- [Quest](./quest.md)
+- [Prized Competition](./prized-competitions.md)
+
 ### Explore optimal solutions across languages
 
 [Programming chrestomathy](./chrestomathy.md) -- solutions to the same task in as many different languages as possible,
 
-## Sites with ranking
+## Sites with progression and ranking
+
+- [Codewars](./sites/codewars.md)
+
+## Sites with competitions
+
+- [Code Chef](./sites/code-chef.md)
 
 ## Sites with mentorship
 
-- [exercismio](./exercismio.md)
-- [geektastic](./geektastic.md)
+- [exercismio](./sites/exercismio.md)
+- [geektastic](./sites/geektastic.md)
+
+## Sites and Languages supported
+
+| Site | Price | Languages | Features |
+| exercism.io | Ballerina, Bash, C, C#, C++, Clojure, CoffeeScript, Common Lisp, Crystal, Delphi Pascal, Elixir, Elm, Emacs Lisp, Erlang, F#, Go, Haskell, Java, JavaScript, Kotlin, Lua, Objective-C, Ocaml, OK, Perl 5, Perl 6, Nim, PHP, PL/SQL, PureScript, Python, R, Racket, Ruby, Rust, Scala, Scheme, Swift, TypeScript | Exercises |
+| Codewars | Free | BF / C / C++ / C# / Clojure / CoffeeScript / Crystal / Dart / Elixir / Erlang / F# / Go / Haskel / Java / JavaScript / Lua / Nim / Objective-C / OCaml / PHP / Python / R / Ruby / Rust / Shell / SQL / Swift / TypeScrypt |
+| Edabit | FREE | C++, C#, JavaScript, PHP, Python, Java, Ruby, Swift | See Full List |

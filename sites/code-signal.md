@@ -1,8 +1,10 @@
-(text from [best-coding-challenge-websites](https://www.webcreate.me/best-coding-challenge-websites/))
+# [Codesignal](https://codesignal.com/)
 
-# [Codesignal](https://codesignal.com/) – Intermediate to Advanced
+**Intermediate to Advanced**
 
 ![](https://www.webcreate.me/wp-content/uploads/2018/02/CodeSignal-Coding-Challenge-Website.jpg)
+
+(text from [best-coding-challenge-websites](https://www.webcreate.me/best-coding-challenge-websites/))
 
 **Codefights / Codesignal is a San Francisco based Technology Company aiming to change the way people discover, develop and promote talent. It was founded in 2004 and is trained by engineers from a specific company. It works in such a way that a group of engineers from each company is identified as trainers. They use core game mechanics and automated skill assessment tools to help customers improve their skills and talents.**
 
