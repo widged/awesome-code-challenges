@@ -22,11 +22,11 @@
 
 [Advent of code](./adventofcode.md) -- Running through the month of December
 
+[exercises-sites](./exercises-sites.md)
+
 ### Explore optimal solutions across languages
 
 [Programming chrestomathy](./chrestomathy.md) -- solutions to the same task in as many different languages as possible,
-
-[exercises-sites](./exercises-sites.md)
 
 ## Sites with ranking
 
